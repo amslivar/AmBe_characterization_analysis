@@ -1,4 +1,4 @@
-Python code to analyze emergent neutron simulation for an AmBe source. 
+Python code to analyze Th-228 calibration data taken on 2022-11-17. 
 
 python version: Python 3.10.10
 
