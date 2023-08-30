@@ -42,8 +42,8 @@ jupyter version:
 
 Author: Mariia Fedkevych, mariia.fedkevych@gmail.com
 
-    Download and open Analysis_activity_W_near_with_attenuator.ipynb as a jupyter notebook.
-    Give a correct path to the Data files and the output folder and run the code. 
+1. Download and open Analysis_activity_W_near_with_attenuator.ipynb as a jupyter notebook.
+2. Give a correct path to the Data files and the output folder and run the code. 
 
 It will produce figures with individual AmBe peaks fits, and then will make a horizontal linear fit to activities estimated for 653, 662 and 722 keV peaks. 
 
