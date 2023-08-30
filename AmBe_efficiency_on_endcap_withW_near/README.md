@@ -42,6 +42,6 @@ jupyter version:
 
 Author: Mariia Fedkevych, mariia.fedkevych@gmail.com
 
-1. Download and open Analysis_GeSim_AmBe_with_outer_W_endcap_far_total_efficiency.ipynb as a jupyter notebook. Give a correct path to the output simulation .root file produced by the code in AmBe_GeSim_efficiency (of AmBe source in the outer tungsten capsule centered on the endcap face of GeIII in near orientation), and run the code.
+1. Download and open Analysis_GeSim_AmBe_with_outer_W_endcap_near_total_efficiency.ipynb as a jupyter notebook. Give a correct path to the output simulation .root file produced by the code in AmBe_GeSim_efficiency (of AmBe source in the outer tungsten capsule centered on the endcap face of GeIII in near orientation), and run the code.
 
 2. It will produce a spectrum histogram for each gamma energy simulation with a zoomed region of the detected peak at this energy and count the number of events in this peak, the plot and fit the detection efficiency curve corresponding to this geometry.
