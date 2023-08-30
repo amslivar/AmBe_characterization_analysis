@@ -1,4 +1,4 @@
-Python code to plot, re-bin and save the simulated spectrum of AmBe without outer tungsten capsule in remote position.
+Python code to estimate detection efficiency at different energies for AmBe in outer tungsten capsule centered on GeIII endcap face in far orientation.
 
 python version: Python 3.10.10
 
