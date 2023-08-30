@@ -1,4 +1,4 @@
-Python code to analyze AmBe-2 activity.
+Python code to plot measured and simulated AmBe-2 data without outer tungsten capsule in remote position and calculate discrepancy between the two.
 
 python version: Python 3.10.10
 
