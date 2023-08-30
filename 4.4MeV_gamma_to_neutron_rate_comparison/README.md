@@ -42,5 +42,5 @@ iminuit version 2.22.0
 
 Author: Mariia Fedkevych, mariia.fedkevych@gmail.com
 
-    Download and open 4.4MeV_gamma-to-neutron.ipynb as a jupyter notebook.
-    Give a correct path to the 4.4MeV_gamma-to-neutron.data files and the output folder and run the code. It will produce figures with individual Th-228 peaks fits, and then will make linear fits to peaks positions and peaks widths to get energy and energy resolution calibration for GeIII with attenuator.
+1. Download and open 4.4MeV_gamma-to-neutron.ipynb as a jupyter notebook.
+2. Give a correct path to the 4.4MeV_gamma-to-neutron.data files and the output folder and run the code. It will produce figures with individual Th-228 peaks fits, and then will make linear fits to peaks positions and peaks widths to get energy and energy resolution calibration for GeIII with attenuator.
