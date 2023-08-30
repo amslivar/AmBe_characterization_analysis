@@ -1,4 +1,4 @@
-Python code to analyze AmBe-1 activity and 4.4 MeV rate. 
+Python code to analyze AmBe-1 activity. 
 
 python version: Python 3.10.10
 
@@ -44,5 +44,5 @@ Author: Mariia Fedkevych, mariia.fedkevych@gmail.com
 
 1. Download and open Analysis_activity_W_near_with_attenuator.ipynb as a jupyter notebook.
 2. Give a correct path to the Data files and the output folder and run the code. 
+
 It will produce figures with individual AmBe peaks fits, and then will make a horizontal linear fit to activities estimated for 653, 662 and 722 keV peaks. 
-It will also estimate measured 4.4 MeV rate.
