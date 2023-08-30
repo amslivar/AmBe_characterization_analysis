@@ -42,8 +42,7 @@ jupyter version:
 
 Author: Mariia Fedkevych, mariia.fedkevych@gmail.com
 
-1. Download and open Analysis_GeSim_AmBe_remote_noW.ipynb as a jupyter notebook. Give a correct path to the output simulation .root file produced by the code in Owner avatar
-AmBe_GeSim_full_spectrum_remote_noW, and run the code.
+1. Download and open Analysis_GeSim_AmBe_remote_noW.ipynb as a jupyter notebook. Give a correct path to the output simulation .root file produced by the code in AmBe_GeSim_full_spectrum_remote_noW, and run the code.
 
 2. It will produce a .npz archive with the simulated spectrum data re-binned accordingly to the measured spectrum for comparison made with the code in AmBe_characterization_analysis
 /AmBe-2_noW_remote_with_attenuator/.
