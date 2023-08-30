@@ -43,6 +43,6 @@ iminuit version 2.22.0
 Author: Mariia Fedkevych, mariia.fedkevych@gmail.com
 
 1. Download and open Analysis_full_spectrum_noW_remote_with_attenuator.ipynb as a jupyter notebook.
-2. Give a correct path to the measurement Data files and the output folder and run the code. The simulated spectrum .npz arhive (produced by AmBe_GeSim_noW_remote/Analysis_GeSim_AmBe_remote_noW.ipynb) should be in the notebook folder.
+2. Give a correct path to the measurement Data files and the output folder and run the code. The simulated spectrum .npz arhive (produced by AmBe_characterization_analysis/AmBe_GeSim_noW_remote/Analysis_GeSim_AmBe_remote_noW.ipynb) should be in the notebook folder.
 
 It will plot the measured and simulated spectra along with discrepancy between them.
