@@ -3,7 +3,7 @@ Python code to plot measured and simulated AmBe-2 data without outer tungsten ca
 python version: Python 3.10.10
 
 jupyter version:
-
+    
     IPython          : 8.14.0
     
     ipykernel        : 6.24.0
